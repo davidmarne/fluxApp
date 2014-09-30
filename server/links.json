@@ -1,0 +1,25 @@
+{
+    "links": [
+        {
+            "url": "http://www.google.com",
+            "name": "google",
+            "comments": 9,
+            "read" : false,
+            "id": 0
+        },
+        {
+            "url": "http://www.yahoo.com",
+            "name": "yahoo",
+            "comments": 5,
+            "read" : false,
+            "id": 1
+        },
+        {
+            "url": "http://www.bing.com",
+            "name": "bing",
+            "comments": 0,
+            "read" : false,
+            "id": 2
+        }
+    ]
+}
